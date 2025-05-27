@@ -9,7 +9,7 @@ Maybe in the future the Mixomate can be bought as a finished product.
 Mixomate is going to be able to:
 
     - Select the amount of protein powder for a shake
-        - this is done by a weight cell
+        - this is done by a load cell
 
     - Mix Water with the Powder
         - Duration of mixing time is selectable via UI
